@@ -4,6 +4,7 @@
 
 A project that automatically adjusts image or video colors in real time based on lighting conditions or user preferences. Useful in image enhancement, low-light correction, and style matching.
 
+
 ## 📌 Features
 
 - ✅ Automatic brightness and contrast enhancement
